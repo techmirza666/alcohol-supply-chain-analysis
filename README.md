@@ -15,4 +15,6 @@ This project identifies supply chain inefficiencies, audits pricing errors, and 
 * **Financial Recovery:** Discovered **$85k in missing valuation** for Brand 2520 (Macallan 12) through Brand ID cross-referencing.
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](link_to_your_image_later)
+![Dashboard Screenshot](link_to_your_image_later)<img width="1122" height="642" alt="Screenshot 2026-04-06 232245" src="https://github.com/user-attachments/assets/3c7de675-7574-4304-8301-e65c2c81ef01" />
+<img width="1205" height="669" alt="Screenshot 2026-04-06 232128" src="https://github.com/user-attachments/assets/741d950d-a5cd-4ffd-b5a3-6517b031418f" />
+
